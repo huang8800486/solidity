@@ -1,0 +1,9 @@
+{
+  "tabWidth": 2, // 缩进为2空格
+  "printWidth": 120, // 行长规则通常设置为120
+  "singleQuote": true, // 使用单引号, 默认false
+  "semi": true, // 句尾添加分号
+  "bracketSpacing": false, // 间距
+  "useTabs": true, // 使用tabs制符
+  "trailingComma": "none"
+}
